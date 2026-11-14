@@ -1,0 +1,10 @@
+# Mac / editor junk
+.DS_Store
+.fuse_hidden*
+*.swp
+
+# Node dependencies (for when we add tests)
+node_modules/
+
+# Test output
+coverage/
